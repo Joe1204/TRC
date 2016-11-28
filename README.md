@@ -5,7 +5,7 @@ It simulates the Traceroute command used to find the intermediate routers betwee
 
 2. Run "sudo python trc.py".
 
-3.Enter your sudo password.
+3. Enter your sudo password.
 
 4. When prompted, enter the target address or an IP Address.
 
@@ -13,6 +13,6 @@ It simulates the Traceroute command used to find the intermediate routers betwee
 
 6. Now let the program run.
 
-7.It will automatically terminate when it reaches the target destination or the maximum hop count.
+7. It will automatically terminate when it reaches the target destination or the maximum hop count.
 
 Note:There may be some "unpingable routers" in between. The program will just print three '*' for those routers.
